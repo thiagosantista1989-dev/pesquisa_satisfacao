@@ -106,9 +106,7 @@ Teste feito com **10 entrevistados**:
 pesquisa_satisfacao/
 ├── README.md
 ├── pesquisa.py
-└── prints/
-    ├── codigo.png
-    └── execucao.png
+└── Captura de tela 2026-09-28 002816.png
 ```
 
 ## 👨‍💻 Autor
